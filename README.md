@@ -32,10 +32,10 @@ The dataset contains 2,930 residential property observations and 82 housing attr
 - ## Example Visualisations
 
 ### Correlation Analysis
-![Correlation Heatmap](correlation_heatmap.png)
+![correlation heatmap](correlation_heatmap.png)
 
 ### Year Built vs Sale Price
-![Year Built vs Sale Price](year_built_vs_sale_price.png)
+![year built vs sale price](year_built_vs_sale_price.png)
 
 ### Neighbourhood Distribution
-![Neighbourhood Distribution](neighbourhood_distribution.png)
+![neighbourhood distribution](neighbourhood_distribution.png)
