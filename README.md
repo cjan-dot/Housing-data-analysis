@@ -28,3 +28,14 @@ The dataset contains 2,930 residential property observations and 82 housing attr
 - Newer properties tended to achieve higher sale prices than older properties.
 - Housing observations were unevenly distributed across neighbourhoods.
 - One- and two-storey houses represented the majority of properties within the dataset.
+
+- ## Example Visualisations
+
+### Correlation Analysis
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Year Built vs Sale Price
+![Year Built vs Sale Price](year_built_vs_sale_price.png)
+
+### Neighbourhood Distribution
+![Neighbourhood Distribution](neighbourhood_distribution.png)
